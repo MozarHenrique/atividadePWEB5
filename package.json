@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.3"
+  },
+  "name": "atividade5",
+  "version": "1.0.0",
+  "description": "Este repositório contém o projeto desenvolvido para a aula de Programação para Web do curso de Análise e Desenvolvimento de Sistemas da UFCA. O objetivo desta aula é ensinar conceitos de persistência de dados utilizando MongoDB e Mongoose, integrados com o framework Express.",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mozar henrique",
+  "license": "ISC"
+}
